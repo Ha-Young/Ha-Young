@@ -18,6 +18,9 @@
 <a href="https://www.instagram.com/niceha0" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>
+
+<br/>
+
 ### I'm Ha-Young Choi 
 
  - 💻   **I'm a Web Develover**    

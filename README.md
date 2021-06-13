@@ -5,8 +5,6 @@
  - 🇰🇷  **I'm working in Seoul**
  - ❤️  **I love developing and communicating!**
 
-## Github Stats  
-
 <table><tr><td valign="top" width="50%">
 
 

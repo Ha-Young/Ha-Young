@@ -5,13 +5,6 @@
  - 🇰🇷  **I'm working in Seoul**
  - ❤️  **I love developing and communicating!**
 
-
-### 💫 My Reperesented Projects
-
-- [Memona](https://github.com/Ha-Young/memona-frontend)
-- [Memoterview](https://github.com/VACO-TEAM3/memoterview-backend)
-
-
 ## Github Stats  
 
 <table><tr><td valign="top" width="50%">

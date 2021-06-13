@@ -1,4 +1,43 @@
 ## Hi there 👋 
+
+**I'm finding jobs!**
+
+If you want to contact me, please leave me a message!
+
+<br/>
+
+
+### I'm Ha-Young Choi 
+
+ - 💻   **I'm a Web Develover**    
+ - 🇰🇷  **I'm working in Seoul**
+ - ❤️  **I love developing and communicating!**
+
+
+<br/>  
+
+### 💫 My Reperesented Projects
+
+- [Memona](https://github.com/Ha-Young/memona-frontend)
+- [Memoterview](https://github.com/VACO-TEAM3/memoterview-backend)
+
+<br/>
+
+## Github Stats  
+
+<table><tr><td valign="top" width="50%">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=ha-young&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-young&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
 <a href="https://github.com/ha-young" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -20,32 +59,3 @@
 </a>
 
 <br/>
-
-### I'm Ha-Young Choi 
-
- - 💻   **I'm a Web Develover**    
- - 🇰🇷  **I'm working in Seoul**
- - ❤️  **I love developing and communicating!**
-
-I'm finding jobs! If you want to contact me, please leave me a message!
-
-<br/>  
-
-### 💫 My Reperesented Projects
-- [Memona](https://github.com/Ha-Young/memona-frontend)
-- [Memoterview](https://github.com/VACO-TEAM3/memoterview-backend)
-
-<br/>
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ha-young&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ha-young&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  

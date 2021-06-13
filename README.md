@@ -1,14 +1,4 @@
 ## Hi there 👋 
-
-### I'm Ha-Young Choi 
-
- - 💻   **I'm a Web Develover**    
- - 🇰🇷  **I'm working in Seoul**
- - ❤️  **I love developing and communicating! **
-
-I'm finding jobs! If you want to contact me, please leave me a message!
-
-
 <a href="https://github.com/ha-young" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -22,13 +12,19 @@ I'm finding jobs! If you want to contact me, please leave me a message!
 </a>
 
 <a href="https://ha-young.github.io" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyOfferMe@gmail.com alt=mail style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hyOfferMe@gmail.com alt=mail style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://www.instagram.com/niceha0" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>
+### I'm Ha-Young Choi 
 
+ - 💻   **I'm a Web Develover**    
+ - 🇰🇷  **I'm working in Seoul**
+ - ❤️  **I love developing and communicating!**
+
+I'm finding jobs! If you want to contact me, please leave me a message!
 
 <br/>  
 
@@ -36,6 +32,7 @@ I'm finding jobs! If you want to contact me, please leave me a message!
 - [Memona](https://github.com/Ha-Young/memona-frontend)
 - [Memoterview](https://github.com/VACO-TEAM3/memoterview-backend)
 
+<br/>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">

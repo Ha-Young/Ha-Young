@@ -1,10 +1,8 @@
 ## Hi there 👋 
 
-**I'm finding jobs!**
+**I'm finding jobs!** If you want to contact me, please leave me a message!
 
-If you want to contact me, please leave me a message!
 
-<br/>
 
 
 ### I'm Ha-Young Choi 
@@ -12,7 +10,6 @@ If you want to contact me, please leave me a message!
  - 💻   **I'm a Web Develover**    
  - 🇰🇷  **I'm working in Seoul**
  - ❤️  **I love developing and communicating!**
-
 
 <br/>  
 

@@ -3,7 +3,6 @@ If you want to contact me, please leave me a message!
 
  - 💻   **I'm a Web Develover**    
  - 🇰🇷  **I'm living in Seoul**
- - ❤️  **I love developing and communicating!**
 
 <table><tr><td valign="top" width="50%">
 
